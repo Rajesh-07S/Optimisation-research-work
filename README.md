@@ -58,18 +58,8 @@ The objective is to maximize total team performance while satisfying all constra
 
 ## 📁 Project Structure
 
+<img width="358" height="285" alt="image" src="https://github.com/user-attachments/assets/257a33cb-9f27-4407-8da6-d5b4efd1dd24" />
 
-
-
-
-Cricket-Team-Optimization
-│── data/
-│   └── player_stats.csv
-│── src/
-│   └── optimization_model.py
-│── README.md
-│── optimization.pdf
-│── requirements.txt
 
 
 
