@@ -57,6 +57,11 @@ The objective is to maximize total team performance while satisfying all constra
 ---
 
 ## 📁 Project Structure
+
+
+
+
+
 Cricket-Team-Optimization
 │── data/
 │   └── player_stats.csv
