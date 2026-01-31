@@ -57,11 +57,11 @@ The objective is to maximize total team performance while satisfying all constra
 ---
 
 ## 📁 Project Structure
-Cricket-Team-Optimization/
+Cricket-Team-Optimization
 │── data/
-│ └── player_stats.csv
+│   └── player_stats.csv
 │── src/
-│ └── optimization_model.py
+│   └── optimization_model.py
 │── README.md
 │── optimization.pdf
 │── requirements.txt
